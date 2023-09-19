@@ -338,7 +338,7 @@
 * HTTP Status: 500 Internal Server Error
 * Тело ответа:
 			
-			Retrieve a employee by id
+			
 		{
 			"message": "Internal Server Error"
 		}
@@ -361,7 +361,7 @@
 * HTTP Status: 500 Internal Server Error
 * Тело ответа:
 			
-			Retrieve a employee by id
+			
 		{
 			"message": "Internal Server Error"
 		}
